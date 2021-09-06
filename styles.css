@@ -1,0 +1,22 @@
+body {
+  font-family: "Staatliches", cursive;
+  font-size: 20px;
+  background-image: url("https://images.unsplash.com/photo-1550710901-bb7411e532b3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80");
+}
+
+#title,
+#description {
+  text-align: center;
+  margin-top: 40px;
+}
+
+#survey-form {
+  background-color: rgb(195, 195, 195, 0.7);
+  padding: 30px 100px 30px 100px;
+  margin-left: 12rem;
+  margin-right: 12rem;
+}
+
+#submit {
+  margin-top: 25px;
+}
